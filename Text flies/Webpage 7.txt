@@ -1,0 +1,177 @@
+<html>
+<head>
+<style>
+
+img {
+   margin: 0;
+   padding: 0;
+   font-family: sans-serif;
+ }
+ 
+body{
+      width: 100%;
+      height: 100vh;
+      background-image:url('https://d3kqdc25i4tl0t.cloudfront.net/articles/content/_532819_documents.hero.jpg');
+      background-size: cover; 
+      background-position:centre;
+       
+       
+}
+
+</style>
+</head>
+</html>
+
+
+<html>
+<head>
+<style>
+
+img {
+   margin: 0;
+   padding: 0;
+   font-family: sans-serif;
+ }
+ 
+body{
+      width: 100%;
+      height: 100vh;
+      background-image:url('https://d3kqdc25i4tl0t.cloudfront.net/articles/content/_532819_documents.hero.jpg');
+      background-size: cover; 
+      background-position:centre;
+       
+}
+
+</style>
+</head>
+</html>
+
+
+
+
+<html>
+<head>
+    <title> Motor Vehicle Registration</title>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    
+
+
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+
+
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+/* Style the topnav links */
+.topnav a {
+  float: right;
+  display: block;
+  color: #f2f2f2;
+  text-align: centre;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+</style>
+
+
+
+ </head>
+    
+ </div>
+
+         <div class="topnav">
+       
+          
+           <a href="file:///C:/Users/macda/OneDrive/Desktop/MVR%20Website/Websitie.html#">Home</a>
+           
+          
+   
+      </div>
+    </body>
+   </html>
+
+
+
+
+
+<html>
+<head>
+  <title>Customer Service</title>
+</head>
+<body>
+  <header>
+     <div class="title">
+         <h1 style="text-align:center; font-size:300%; ">Customer Service</h1>
+       </div>
+   </header>
+ </body>
+</html>
+
+<html>
+<body>
+
+<h1> <center>If you are having any issues please contact us using our email and number shown below:</center></h1>
+
+
+<h2>
+<center>
+Our Email:
+MotorVehicleReg@gmail.gov.jm
+</center>
+</h2>
+
+<h3>
+<center>
+Our Number:
+(876) 568-####
+
+</center>
+</h3>
+
+</body>
+ </html>
+
+
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color:#333 ;
+   color: white;
+   text-align: center;
+}
+</style>
+</head>
+<body>
+
+<div class="footer">
+  <p>@Copyright Government Office 2023</p>
+</div>
+
+</body>
+</html> 
+      
